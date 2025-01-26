@@ -48,3 +48,7 @@ add_executable(cost_distance main.cpp raster.cpp raster.h raster_cost_dist.cpp r
 target_link_libraries(cost_distance D:/msys64//mingw64/lib/libgdal.dll.a)
 target_link_directories(cost_distance PUBLIC D:/msys64/mingw64/include)
 ```
+
+## License
+
+This project is licensed under the Apache License 2.0. See the [LICENSE](https://github.com/mofuss/mofuss/blob/main/LICENSE) file for details.
