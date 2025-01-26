@@ -51,4 +51,4 @@ target_link_directories(cost_distance PUBLIC D:/msys64/mingw64/include)
 
 ## License
 
-This project is licensed under the Apache License 2.0. See the [LICENSE](https://github.com/mofuss/mofuss/blob/main/LICENSE) file for details.
+This project is licensed under the Apache License 2.0. See the [LICENSE](https://github.com/mofuss/CostDistance_IDW/blob/master/LICENSE) file for details.
